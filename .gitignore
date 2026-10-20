@@ -1,0 +1,15 @@
+bin/
+obj/
+tools/
+dist/
+artifacts/
+*.user
+Luma.lnk
+design-qa.md
+.vs/
+*.log
+*.mp4
+*.mkv
+*.wav
+*.raw
+src/Assets/studio-art.png
